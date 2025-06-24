@@ -3,3 +3,15 @@
 путь к мп3 файлу: "music/charli_xcx_360.mp3"
 путь к обложке: "covers/charli_xcx_brat.jpg"
 id песни: "1"
+
+Название: "365"
+автор песни: "Charli XCX"
+путь к мп3 файлу: "music/charli_xcx_365.mp3"
+путь к обложке: "covers/charli_xcx_brat.jpg"
+id песни: "2"
+
+Название: "Оранжевое солнце HardStyle"
+автор песни: "Краски"
+путь к мп3 файлу: "music/Kraski_Oranzhevoe_solnce_Hardstyle.mp3"
+путь к обложке: "covers/charli_xcx_brat.jpg"
+id песни: "3"
